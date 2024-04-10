@@ -1,6 +1,6 @@
 # docsify 博客
 
-[在线阅读](https://github.com/Konnor-Jade/Konnor-Jade.github.io)
+[在线阅读](https://Konnor-Jade.github.io)
 
 ## 安装依赖
 
