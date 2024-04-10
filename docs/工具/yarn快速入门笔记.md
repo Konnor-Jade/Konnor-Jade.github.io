@@ -1,12 +1,3 @@
----
-title: yarn 快速入门笔记
-id: yarn快速入门
-sidebar_label: yarn速通
-sidebar_position:  3
-tags: [yarn, tools]
-description: 描述
----
-
 - # yarn  快速入门笔记
   
   > 快速、可靠、安全的依赖管理工具: [yarn 中文官网](https://yarn.bootcss.com/)

@@ -1,12 +1,3 @@
----
-title: Npm 常用命令
-id: Npm快速入门
-sidebar_label: Npm常用命令
-sidebar_position: 2
-tags: [npm, tool]
-description: 描述
-hide_table_of_contents: false
----
 # Npm 使用教程
 
 ##  常用命令

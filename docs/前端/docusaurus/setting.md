@@ -2,8 +2,7 @@
 
 Markdown文档可以使用以下Markdown前端元数据字段，在两侧用线括起来。
 
-```javascript
-
+```markdown
 ---
 id: doc-markdown
 title: Docs Markdown Features

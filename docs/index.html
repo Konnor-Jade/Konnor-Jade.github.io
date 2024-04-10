@@ -25,6 +25,7 @@
       name: 'Konnor 的编程笔记',
       repo: 'https://github.com/Konnor-Jade/Konnor-Jade.github.io/',
       homepage: 'README.md', // 首页
+      notFoundPage: 'README.md',
       loadSidebar: true, // 自动加载侧边栏
       coverpage: true, // 封面
       auto2top: true, // 滚动到顶部
@@ -32,18 +33,34 @@
       loadNavbar: true, // 自动加载导航栏
       // themeColor: '#3F51B5',
       // logo: '/_media/icon.svg',
+      // 分页导航插件配置
       pagination: {
         previousText: '上一章节',
         nextText: '下一章节',
         crossChapter: true,
         crossChapterText: true,
       },
+      // 复制插件配置
+      copyCode: {
+        buttonText: '点击复制',
+        errorText: 'Failure',
+        successText: 'Copied'
+      },
+      // 字数统计插件配置
+      count: {
+        countable: true,
+        fontsize: '0.9em',
+        color: 'rgb(90,0,90)',
+        language: 'chinese'
+      }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- 分页导航 -->
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- docsify-tabs (latest v1.x.x) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <!-- docsify-themeable -->
   <!-- <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script> -->
 

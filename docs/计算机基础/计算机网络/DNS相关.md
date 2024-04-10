@@ -14,7 +14,7 @@ LINUX DNS 解析的 3 种修改方法
 
 - 打开 `/etc/hosts` 文件，在文件中添加或修改条目，格式如下：
 
-```
+```bash
 127.0.0.1     localhost 
 192.168.1.10  example.local
 ```
@@ -33,7 +33,7 @@ DSN1=’114.114.114.114’
 
 传统的方法是直接编辑 `/etc/resolv.conf` 文件，手动添加 DNS 服务器的地址。例如，要使用 Google 的 DNS，可以添加如下行：
 
-```
+```bash
 nameserver 8.8.8.8 
 nameserver 8.8.4.4
 ```

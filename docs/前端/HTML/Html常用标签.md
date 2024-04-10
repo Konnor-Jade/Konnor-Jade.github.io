@@ -1,12 +1,3 @@
----
-title: Html 常用标签
-id: Html常用标签
-sidebar_label: Html常用标签
-sidebar_position: 1
-tags: [html, 前端开发]
-description: 描述
----
-
 # Html 常用标签
 
 ## **1. 必用**
