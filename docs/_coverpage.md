@@ -6,7 +6,7 @@
 
 # Konnor 的编程笔记
 
-干就完了
+有匪君子，如切如磋，如琢如磨
 
 [GitHub](https://github.com/Konnor-Jade/Konnor-Jade.github.io)
 [下滑阅读]()
