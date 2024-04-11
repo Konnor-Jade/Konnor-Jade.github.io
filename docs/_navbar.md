@@ -1,6 +1,7 @@
 <!-- _navbar.md -->
 * 前端
   * [前端导航](前端/navigation)
+  * [TypeScript](前端/TypeScript/TypeScript浅尝)
 * 后端
   * [Golang待定](前端/framework)
   * [Java待定](前端/component)

@@ -2,6 +2,7 @@
 
 <!-- * [首页](/) -->
 * [前端导航](/前端/navigation)
+  * [TypeScript](前端/TypeScript/TypeScript浅尝)
   * HTML
     * [HTML基础](/前端/HTML/Html常用标签)
   * CSS
@@ -12,7 +13,7 @@
     * [箭头函数](/前端/JavaScript/JavaScript箭头函数)
     * [Mocha+chai 测试框架](/前端/JavaScript/Mocha+chai测试框架)
     * [JavaScript模块化](/前端/JavaScript/JavaScript模块化)
-
+  
 * 计算机基础
   * 计算机网络
     * [DNS相关](/计算机基础/计算机网络/DNS相关)
