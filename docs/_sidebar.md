@@ -3,6 +3,7 @@
 <!-- * [首页](/) -->
 * [前端导航](/前端/navigation)
   * [TypeScript](前端/TypeScript/TypeScript浅尝)
+    * [编译选项](前端/TypeScript/编译选项)
   * HTML
     * [HTML基础](/前端/HTML/Html常用标签)
   * CSS

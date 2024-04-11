@@ -6,6 +6,8 @@ TS是 JS 的超集
 
 - [[TypeScript 入门教程](https://ts.xcatliu.com/)](https://ts.xcatliu.com/introduction/hello-typescript.html)
 
+- [TypeScript快速入门](https://zhuanlan.zhihu.com/p/598811083)
+
 1. **`TypeScript` 简称：TS，是 JavaScript 的超集**。简单来说就是：JS 有的 TS 都有。JS写的代码在TS的环境下都能跑。
 2. 在 JS 基础之上，为 JS 添加了**类型支持**。TypeScript = `Type` + JavaScript
 3. TypeScript 是*微软*开发的开源编程语言，可以在任何运行 JavaScript 的地方运行
