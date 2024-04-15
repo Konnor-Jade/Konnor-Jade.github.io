@@ -10,6 +10,7 @@
   * CSS
     * [CSS选择器](/前端/CSS/CSS选择器)
   * JavaScript
+    * [javascript基础](/前端/JavaScript/javascript基础)
     * [ES6](/前端/JavaScript/ES6(JavaScript))
     * [DOM 快速入门](/前端/JavaScript/DOM快速入门)
     * [箭头函数](/前端/JavaScript/JavaScript箭头函数)

@@ -6,6 +6,8 @@ DOM（Document Object Model）是一种跨平台和语言独立的接口，允�
 
 JavaScript 中内置一个 document 对象，该对象指向整个 DOM，用来表示当前 HTML 文档的对象。并提供了访问和操作网页内容的方法和属性。document 对象是所有 DOM 对象的根节点，它代表了整个 HTML 文档，包括页面的内容、结构和样式。
 
+![DOM HTML tree](https://fastly.jsdelivr.net/gh/Konnor-Jade/image-host/img/202404152039704.gif)
+
 ### document 的关键特性和用途
 
 - 访问和修改页面内容：通过 `document` 对象，你可以查询和修改页面上的元素。例如，使用 `document.getElementById()` 或 `document.querySelector()` 等方法可以找到特定的元素，并通过修改这些元素的属性或样式来改变它们。
